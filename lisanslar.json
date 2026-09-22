@@ -1,6 +1,27 @@
 {
   "olcay": {
-    "bitis_zamani": "2026-09-21 23:26",
-    "aktif": true
+    "bitis_zamani": "2026-09-22 22:35",
+    "aktif": true,
+    "hwid": ""
+  },
+  "musteri1": {
+    "bitis_zamani": "2026-11-30 23:59",
+    "aktif": true,
+    "hwid": ""
+  },
+  "musteri2": {
+    "bitis_zamani": "2026-08-15 12:00",
+    "aktif": true,
+    "hwid": ""
+  },
+  "musteri3": {
+    "bitis_zamani": "2026-06-01 00:00",
+    "aktif": false,
+    "hwid": ""
+  },
+  "musteri4": {
+    "bitis_zamani": "2027-01-01 00:00",
+    "aktif": true,
+    "hwid": ""
   }
 }
