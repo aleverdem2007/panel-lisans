@@ -6,11 +6,11 @@
     "bitis_zamani": "2090-09-23 23:59",
     "aktif": true
   },
-  "musteri1": {
-    "sifre": "musteri1-sifre",
+  "teber": {
+    "sifre": "teber",
     "kullanici_sayisi": 1,
-    "bilgisayarlar": [],
-    "bitis_zamani": "2026-11-30 23:59",
+    "bilgisayarlar": ["092A-720E-AF47-4443"],
+    "bitis_zamani": "2027-11-30 23:59",
     "aktif": true
   },
   "musteri2": {
