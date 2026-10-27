@@ -2,14 +2,14 @@
   "olcay": {
     "sifre": "12345",
     "kullanici_sayisi": 1,
-    "bilgisayarlar": ["7534-0A25-102D-5951"],
+    "bilgisayarlar": ["8618-16B2-6A47-1F24"],
     "bitis_zamani": "2090-09-23 23:59",
     "aktif": true
   },
   "teber": {
-    "sifre": "teber",
+    "sifre": "teb",
     "kullanici_sayisi": 1,
-    "bilgisayarlar": ["092A-720E-AF47-4443"],
+    "bilgisayarlar": [""],
     "bitis_zamani": "2027-11-30 23:59",
     "aktif": true
   },
